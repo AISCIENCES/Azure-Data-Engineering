@@ -1,0 +1,5 @@
+
+# add credentials in spark.config to authorize blob
+spark.hadoop.fs.azure.account.key.<account_name>.blob.core.windows.net <access_key>
+spark.databricks.delta.optimizeWrite.enabled true 
+spark.databricks.delta.autoCompact.enabled true 

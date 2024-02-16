@@ -1,0 +1,22 @@
+PlayStore Dataset
+02 - Copy Data Activity
+Data Source:
+https://github.com/gauthamp10/Google-Playstore-Dataset/tree/main/dataset
+
+
+Olympics Datset
+01- Fetch data from kaggle
+Data Source:
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download
+
+
+Stack Overflow Dataset
+01 - Copy Zip Data
+Data Source:
+https://cdn.stackoverflow.co/files/jo7n4k8s/production/49915bfd46d0902c3564fd9a06b509d08a20488c.zip/stack-overflow-developer-survey-2023.zip
+
+
+Uber Taxi Dataset
+01- Intro to Project
+Data Source:
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
